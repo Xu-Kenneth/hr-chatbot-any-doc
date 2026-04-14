@@ -1,0 +1,7 @@
+openai
+gradio
+numpy
+pypdf
+python-docx
+nbformat
+
