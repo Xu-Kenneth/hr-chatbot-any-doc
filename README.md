@@ -52,18 +52,10 @@ Restart your terminal/Jupyter kernel after setting it.
 
 ## Notes / Tips
 
-- **Privacy**: Don’t commit private/proprietary HR documents to a public repo.
-- **API keys**: Never hardcode real API keys in notebooks; use environment variables.
 - **Large documents**: Very large PDFs can take time/cost to embed (many chunks).
 
 ## Troubleshooting
 
 - **“Please upload a document first”**: Upload a file in the Gradio UI before chatting.
 - **PDF text is empty/garbled**: The PDF may be scanned images; you’ll need OCR (not included).
-
-## GitHub / recruiter notes
-
-- **Do not commit private documents** (only upload them locally when you run the app).
-- **Do not commit API keys** (use `OPENAI_API_KEY` environment variable).
-- If you have any company-specific sample notebooks/documents, keep them **private**.
 
