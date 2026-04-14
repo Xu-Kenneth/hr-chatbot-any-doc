@@ -13,7 +13,3 @@ env/
 # OS / IDE
 .DS_Store
 Thumbs.db
-
-# Keep sample/potentially copyrighted notebook private
-nestle_hr_assistant_2.ipynb
-
